@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:07-10-2025
 ## Register Number:212224220074
-## Name:RAAGAVI RM
+## Name:RAAGAVI R M
 ## Problem Title
 SIH 1392 - E-Waste Facility Locator
 ## Problem Description
